@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 69581027169db8d4f9e424474e089d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2314572227687101449
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_0
+  - first:
+      213: 4543408030239601236
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_1
+  - first:
+      213: -706825096795749481
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_2
+  - first:
+      213: 2585877465292566854
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_3
+  - first:
+      213: 5855372457650636334
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_4
+  - first:
+      213: 373041135023276913
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_5
+  - first:
+      213: 3519925678797640920
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_6
+  - first:
+      213: -2914920782421465070
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_7
+  - first:
+      213: -2916416397664914621
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_8
+  - first:
+      213: 5402208522805398723
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_9
+  - first:
+      213: 4415070916621408364
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_10
+  - first:
+      213: -116062034776401069
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_11
+  - first:
+      213: 8119110919399369341
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_12
+  - first:
+      213: -2207250246947923932
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_13
+  - first:
+      213: -2726194218652294538
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_14
+  - first:
+      213: -6109658460485483994
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_15
+  - first:
+      213: -5495017571885081895
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_16
+  - first:
+      213: -7922166397516224192
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_17
+  - first:
+      213: 4341593049655252410
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_18
+  - first:
+      213: 3270520999869879564
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_19
+  - first:
+      213: -1843842395930202246
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_20
+  - first:
+      213: -5981146118753895578
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_21
+  - first:
+      213: -5172783753004223530
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_22
+  - first:
+      213: 3304501033038457800
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_23
+  - first:
+      213: 1016889230816398647
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_24
+  - first:
+      213: -2704437015089432254
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_25
+  - first:
+      213: 8663888212650326123
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_26
+  - first:
+      213: -7053016228285103720
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_27
+  - first:
+      213: 6049147336374740808
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_28
+  - first:
+      213: 6689964444381774873
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_29
+  - first:
+      213: -7650003448125587255
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_30
+  - first:
+      213: -8577205550383455536
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_31
+  - first:
+      213: 3131179150629898738
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_32
+  - first:
+      213: -6856857764509321993
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_33
+  - first:
+      213: 2208728102201079039
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_34
+  - first:
+      213: 7406043095832319569
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_35
+  - first:
+      213: 8629168005503528170
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_36
+  - first:
+      213: 676984591697101102
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_37
+  - first:
+      213: 9049509101696017298
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_38
+  - first:
+      213: 461917487084444460
+    second: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1018.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904364e8d230f1020800000000000000
+      internalID: 2314572227687101449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1018.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b610188d6d0f30800000000000000
+      internalID: 4543408030239601236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1018.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938823c15ad036f0800000000000000
+      internalID: -706825096795749481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1018.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417377aad1e2e320800000000000000
+      internalID: 2585877465292566854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1018.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264fd52a36724150800000000000000
+      internalID: 5855372457650636334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173cba39fee4d2500800000000000000
+      internalID: 373041135023276913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 873.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4528861c949d030800000000000000
+      internalID: 3519925678797640920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 873.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186d570efe1c87d0800000000000000
+      internalID: -2914920782421465070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 873.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343fe08fcbec687d0800000000000000
+      internalID: -2916416397664914621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 873.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4764870088fa40800000000000000
+      internalID: 5402208522805398723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68906b4b9b754d30800000000000000
+      internalID: 4415070916621408364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 728.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5e3db13aa36ef0800000000000000
+      internalID: -116062034776401069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 728.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6bc24d50eca070800000000000000
+      internalID: 8119110919399369341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 728.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428964c48954e51e0800000000000000
+      internalID: -2207250246947923932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 728.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a1885dcc9a2ad0800000000000000
+      internalID: -2726194218652294538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228dc32002263ba0800000000000000
+      internalID: -6109658460485483994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9249d1a6cdb3b0800000000000000
+      internalID: -5495017571885081895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 583.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049628882afce0290800000000000000
+      internalID: -7922166397516224192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 583.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5910c30ef604c30800000000000000
+      internalID: 4341593049655252410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 583.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0513bb7589336d20800000000000000
+      internalID: 3270520999869879564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f66c82c1b5966e0800000000000000
+      internalID: -1843842395930202246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 438.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb7f16b43befca0800000000000000
+      internalID: -5981146118753895578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 438.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3754e45949638b0800000000000000
+      internalID: -5172783753004223530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 438.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2b2a7e22fbdd20800000000000000
+      internalID: 3304501033038457800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 438.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4bb22e57bc1e00800000000000000
+      internalID: 1016889230816398647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493d2e0dd8e77ad0800000000000000
+      internalID: -2704437015089432254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 293.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6877b81d605c3870800000000000000
+      internalID: 8663888212650326123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 293.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891400edb17ae1e90800000000000000
+      internalID: -7053016228285103720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 293.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ed92e373e2f350800000000000000
+      internalID: 6049147336374740808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 293.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148e5b973787dc50800000000000000
+      internalID: 6689964444381774873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c006f7356ab5d590800000000000000
+      internalID: -7650003448125587255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 148.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a2e3fef4a7f880800000000000000
+      internalID: -8577205550383455536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9876909de247b20800000000000000
+      internalID: 3131179150629898738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 148.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fa0f313c87d0a0800000000000000
+      internalID: -6856857764509321993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 148.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff43e11b18af6ae10800000000000000
+      internalID: 2208728102201079039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d15ee4fc87c660800000000000000
+      internalID: 7406043095832319569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec243be496f0c770800000000000000
+      internalID: 8629168005503528170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c48a36e1256900800000000000000
+      internalID: 676984591697101102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936146e490569d70800000000000000
+      internalID: 9049509101696017298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-101882_tail-unity-character-sprite-sheet-hd-png-download_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3.5
+        width: 168
+        height: 145.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9535d18f096600800000000000000
+      internalID: 461917487084444460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
